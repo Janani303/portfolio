@@ -92,3 +92,33 @@ body{
     
     transition: opacity 0.6s ease-out, transform 1.2s ease-out;
 }
+
+#contact {
+    position: relative;
+}
+
+.contact {
+    position: absolute;
+    height: auto;
+    width: 100%;
+    background-color: #591c02;
+    padding: 20px;
+    color: snow;
+}
+
+.cont {
+    text-align: center;
+}
+
+.cont-info{
+    margin-left: 40%;
+}
+
+.heading {
+    font-size: 25px;
+    text-decoration-line: underline;
+}
+
+.paragraph {
+    font-size: 20px;
+}
